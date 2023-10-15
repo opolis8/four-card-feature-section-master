@@ -20,7 +20,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: "Poppins", sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
 
   .text {
     display: flex;
@@ -96,7 +96,7 @@ body {
 }
 @media only screen and (max-width: 600px) {
   body {
-    height: 200vh;
+    height: 170vh;
     .text {
       display: flex;
       flex-direction: column;

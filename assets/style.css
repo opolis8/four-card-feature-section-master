@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: "Poppins", sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 body .text {
   display: flex;
@@ -84,7 +84,7 @@ body .card-container .mid-container .karma {
 
 @media only screen and (max-width: 600px) {
   body {
-    height: 200vh;
+    height: 170vh;
   }
   body .text {
     display: flex;
