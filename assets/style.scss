@@ -96,7 +96,8 @@ body {
 }
 @media only screen and (max-width: 600px) {
   body {
-    align-items: flex-start;
+    align-items: center;
+    justify-content: flex-start;
     height: 200vh;
     .text {
       display: flex;
