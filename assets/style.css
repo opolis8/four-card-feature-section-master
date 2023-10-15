@@ -84,6 +84,7 @@ body .card-container .mid-container .karma {
 
 @media only screen and (max-width: 600px) {
   body {
+    align-items: flex-start;
     height: 200vh;
   }
   body .text {
